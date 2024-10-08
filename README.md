@@ -1,6 +1,6 @@
 # Group Members:
 - BSDSF22M012 Laraib Zafar
-- BSDSF@@M022 Mubashra Iftekhar
+- BSDSF22M022 Mubashra Iftekhar
 
 # Duck Books PK
 Welcome to Duck Bookstore PK, an online bookstore where we sell a wide variety of books ranging from fiction, non-fiction, academic textbooks, and more! Our platform makes it easy for customers to browse, search, and purchase books conveniently.
