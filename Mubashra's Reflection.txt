@@ -1,0 +1,8 @@
+This was my first real experience working with a GitHub repository.
+I had made one before, but it was very amateur. Thanks to the guidance I received, I learned how to use GitHub properly.
+Using the shell for commands felt very professional and helped me keep track of changes easily. It made the process much more fun!
+Two fun things I discovered about Git are how I can make multiple branches to make my project concise and presentable and how I can
+easily collaborate with others.
+					I plan to create repositories for all the work I have done before, as this will make my projects much more
+useful and accessible. To maintain my GitHub account, I intend to focus on more professional projects in the future.
+Overall, it was an enjoyable learning experience that I look forward to continuing!
