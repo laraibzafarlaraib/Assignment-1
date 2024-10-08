@@ -1,6 +1,0 @@
-We learned a lot from this assignment. Git and Github was fun. The only error we faced was when my main directory and my personal directory were not merging right but then after some time we managed to figure it out.
-We built this website during our first semster. I think the purpose pf this assignment was to practise git and github not to learn html and css, right? 
-we think we will be using these often now. 
-This is our reflection. 
-We can not think more because we have done our work right(Hope so:) 
-p.s. And i still suspect if anyones's even going to read this. -laraib
